@@ -1,4 +1,4 @@
-package com.medhost.cleancode;
+package com.mycompany.cleancode;
 
 import junit.framework.Assert;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.medhost.cleancode;
+package com.mycompany.cleancode;
 
 import java.util.Random;
 
